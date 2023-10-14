@@ -18,17 +18,24 @@ Incluye recursos multimedia
 ## Secciones
 
 Sobre mi: 
-fooooto
+Experiencia:
+Educación:
+Certificaciones:
+Cursos:
 
 
 ## Tecnologías
 
-* ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+* ![HTML](assets/iconoHTML)
 
-*
+* ![CSS](assets/iconoCSS)
+
+* ![CSS](assets/iconoJS)
 
 
 ## Contacto
+
+La aplicación de mi portafolio, está disponible en el link: 
 
 Si estas interesado en compartir o conectar para algún proyecto u oportunidad laborarl, contáctame
 

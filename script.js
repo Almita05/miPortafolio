@@ -28,12 +28,8 @@ let objetoDeLaBibliotecaTypewriter = new Typewriter(app, {
     loop: true
 });
 
-objetoDeLaBibliotecaTypewriter.typeString('Alma Lilia')
-    .pauseFor(2500)
-    .deleteAll()
-    .typeString('¿Alma Lilia?')
-    .pauseFor(2500)
-    .deleteChars(12)
+objetoDeLaBibliotecaTypewriter
+    .pauseFor(1500)
     .typeString('<strong>¡Alma Lilia Martínez Landero!</strong>')
-    .pauseFor(2500)
+    .pauseFor(1500)
     .start();

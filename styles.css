@@ -1,7 +1,10 @@
-h1 {
-    font-family: 'Nunito', sans-serif;
-    font-family: 'Roboto Condensed', sans-serif;
+p {
+    font-family: 'RichEatinAllCaps';
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
 }
+
 
 .bd-green-400 {
     color: #000;
