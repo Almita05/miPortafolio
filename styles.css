@@ -1,12 +1,57 @@
-p {
-    font-family: 'RichEatinAllCaps';
-    font-weight: normal;
-    font-style: normal;
-    text-align: center;
+.textoPrincipal {
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 25px;
 }
 
 
 .bd-green-400 {
     color: #000;
     background-color: #479f76;
+}
+
+h1 {
+    font-family: 'Itim', cursive;
+    font-size: 60px;
+}
+
+.imagenMiPortafolio {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.lania {
+    height: 5px;
+    width: 5px;
+}
+
+p {
+    font-family: 'SingleDayRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+h3 {
+    font-family: 'BloggerSansBold';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 70px;
+}
+
+.educacion {
+    font-family: 'LibHandDisRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2 {
+    font-family: 'RedkostComicRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 50px;
+}
+
+a {
+    font-family: 'MariusRegular';
+    font-weight: normal;
+    font-style: normal;
 }
